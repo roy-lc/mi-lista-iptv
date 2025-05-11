@@ -1,0 +1,39 @@
+#EXTM3U
+
+############ NOTICIAS ############
+#EXTINF:-1 tvg-name="Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/24h_TVE_logo.svg/320px-24h_TVE_logo.svg.png" group-title="Noticias",Canal 24 Horas
+https://rtvelivestream.akamaized.net/24h/index.m3u8
+
+#EXTINF:-1 tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/DW_%28TV_channel%29_logo_2012.svg" group-title="Noticias",DW Español
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Telesur_2021_logo.svg" group-title="Noticias",TeleSUR
+https://cdnesmain.telesur.ultracast.tv/live/teleSURHD/playlist.m3u8
+
+############ DEPORTES ############
+#EXTINF:-1 tvg-name="CDN Deportes (RD)" tvg-logo="https://cdn.com.do/wp-content/uploads/2021/01/cdn-deportes.png" group-title="Deportes",CDN Deportes
+https://ss3.domint.net:3134/cdndeportestv_str/cdndeportestv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Estrella TV Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Estrella_TV_logo_2018.png" group-title="Deportes",Estrella TV Deportes
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsports/CDN/master.m3u8
+
+############ INFANTILES ############
+#EXTINF:-1 tvg-name="Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Toon_Goggles_logo.svg/320px-Toon_Goggles_logo.svg.png" group-title="Infantil",Toon Goggles
+https://stream-us1.plex.cdn.digitalturbine.com/ChildrensToons/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5df3ff24638d5f0009c7183d/colorLogoPNG.png" group-title="Infantil",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df3ff24638d5f0009c7183d/master.m3u8?deviceType=web
+
+############ CULTURA / VARIOS ############
+#EXTINF:-1 tvg-name="Canal Clima" tvg-logo="https://canalclima.com/wp-content/uploads/2015/01/logo-canal-clima.png" group-title="Cultura",Canal Clima
+https://stream1.canalclima.com/live/clima/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal Congreso (México)" tvg-logo="https://www.canaldelcongreso.gob.mx/resources/img/logo-oscuro.png" group-title="Cultura",Canal Congreso
+https://wowzaprod214-i.akamaihd.net/hls/live/1029799/7a5b8ff3/playlist.m3u8
+
+############ PELÍCULAS ############
+#EXTINF:-1 tvg-name="Pluto TV Cine" tvg-logo="https://images.pluto.tv/channels/5f2a1a17dfd6d70007d8cf24/colorLogoPNG.png" group-title="Películas",Pluto TV Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a1a17dfd6d70007d8cf24/master.m3u8?deviceType=web
+
+#EXTINF:-1 tvg-name="Cine Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Cine_Retro.png" group-title="Películas",Cine Retro
+https://stmv1.srvstm.com/cineretro/cineretro/playlist.m3u8
